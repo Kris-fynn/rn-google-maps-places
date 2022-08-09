@@ -1,16 +1,12 @@
-import React, { Component } from "react";
+import React, {Component} from "react";
 import { SearchBar } from "react-native-elements";
-import styles from "./styles";
-export default class Search extends Component {
+exort default class Search extends component { 
   render() {
-    return (
-      <SearchBar
-        placeholder="Search..."
-        value={null}
-        round
-        platform="android"
-        containerStyle={styles.searchContainer}
-      />
-    );
+    return("
+      <SearchBar=
+        placeholder
+      >
+    )
   }
+
 }
