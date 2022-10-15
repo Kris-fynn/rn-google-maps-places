@@ -76,7 +76,8 @@ class MapScreen extends Component {
 
           markers.push(marketObj);
         });
-        //update our places array
+
+        //update our places arrey
         this.setState({ places: markers });
       });
   }
