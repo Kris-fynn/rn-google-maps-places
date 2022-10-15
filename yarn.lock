@@ -5,6 +5,9 @@ __metadata:
   version: 6
   cacheKey: 8
 
+<<<<<<< HEAD
+"@babel/runtime@npm:^7.6.2, @babel/runtime@npm:^7.8.7":
+=======
 "@ampproject/remapping@npm:^2.1.0":
   version: 2.2.0
   resolution: "@ampproject/remapping@npm:2.2.0"
@@ -1479,6 +1482,7 @@ __metadata:
   linkType: hard
 
 "@babel/runtime@npm:^7.10.2, @babel/runtime@npm:^7.12.5, @babel/runtime@npm:^7.16.3, @babel/runtime@npm:^7.18.9, @babel/runtime@npm:^7.5.5, @babel/runtime@npm:^7.6.2, @babel/runtime@npm:^7.8.4, @babel/runtime@npm:^7.8.7":
+>>>>>>> master
   version: 7.18.9
   resolution: "@babel/runtime@npm:7.18.9"
   dependencies:
@@ -1487,6 +1491,8 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
+=======
 "@babel/template@npm:^7.10.4, @babel/template@npm:^7.18.10, @babel/template@npm:^7.18.6, @babel/template@npm:^7.3.3":
   version: 7.18.10
   resolution: "@babel/template@npm:7.18.10"
@@ -1586,6 +1592,7 @@ __metadata:
   languageName: node
   linkType: hard
 
+>>>>>>> master
 "@formatjs/ecma402-abstract@npm:1.11.8":
   version: 1.11.8
   resolution: "@formatjs/ecma402-abstract@npm:1.11.8"
@@ -1635,6 +1642,8 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
+=======
 "@gar/promisify@npm:^1.0.1, @gar/promisify@npm:^1.1.3":
   version: 1.1.3
   resolution: "@gar/promisify@npm:1.1.3"
@@ -1702,6 +1711,7 @@ __metadata:
   languageName: node
   linkType: hard
 
+>>>>>>> master
 "@internationalized/date@npm:^3.0.1":
   version: 3.0.1
   resolution: "@internationalized/date@npm:3.0.1"
@@ -1739,6 +1749,8 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
+=======
 "@istanbuljs/load-nyc-config@npm:^1.0.0":
   version: 1.1.0
   resolution: "@istanbuljs/load-nyc-config@npm:1.1.0"
@@ -2119,6 +2131,7 @@ __metadata:
   languageName: node
   linkType: hard
 
+>>>>>>> master
 "@react-aria/checkbox@npm:^3.2.1":
   version: 3.5.0
   resolution: "@react-aria/checkbox@npm:3.5.0"
@@ -2164,7 +2177,11 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
+"@react-aria/focus@npm:3.2.3, @react-aria/focus@npm:^3.2.3":
+=======
 "@react-aria/focus@npm:3.2.3":
+>>>>>>> master
   version: 3.2.3
   resolution: "@react-aria/focus@npm:3.2.3"
   dependencies:
@@ -2179,7 +2196,11 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
+"@react-aria/focus@npm:^3.7.0":
+=======
 "@react-aria/focus@npm:^3.2.3, @react-aria/focus@npm:^3.7.0":
+>>>>>>> master
   version: 3.7.0
   resolution: "@react-aria/focus@npm:3.7.0"
   dependencies:
@@ -2658,6 +2679,8 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
+=======
 "@react-navigation/core@npm:^3.7.9":
   version: 3.7.9
   resolution: "@react-navigation/core@npm:3.7.9"
@@ -2682,6 +2705,7 @@ __metadata:
   languageName: node
   linkType: hard
 
+>>>>>>> master
 "@react-stately/checkbox@npm:3.0.3":
   version: 3.0.3
   resolution: "@react-stately/checkbox@npm:3.0.3"
@@ -2826,7 +2850,11 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
+"@react-stately/radio@npm:3.2.1, @react-stately/radio@npm:^3.2.1":
+=======
 "@react-stately/radio@npm:3.2.1":
+>>>>>>> master
   version: 3.2.1
   resolution: "@react-stately/radio@npm:3.2.1"
   dependencies:
@@ -2839,7 +2867,11 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
+"@react-stately/radio@npm:^3.5.0":
+=======
 "@react-stately/radio@npm:^3.2.1, @react-stately/radio@npm:^3.5.0":
+>>>>>>> master
   version: 3.5.0
   resolution: "@react-stately/radio@npm:3.5.0"
   dependencies:
@@ -2884,7 +2916,11 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
+"@react-stately/slider@npm:3.0.1, @react-stately/slider@npm:^3.0.1":
+=======
 "@react-stately/slider@npm:3.0.1":
+>>>>>>> master
   version: 3.0.1
   resolution: "@react-stately/slider@npm:3.0.1"
   dependencies:
@@ -2899,7 +2935,11 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
+"@react-stately/slider@npm:^3.2.0":
+=======
 "@react-stately/slider@npm:^3.0.1, @react-stately/slider@npm:^3.2.0":
+>>>>>>> master
   version: 3.2.0
   resolution: "@react-stately/slider@npm:3.2.0"
   dependencies:
@@ -2943,7 +2983,11 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
+"@react-stately/toggle@npm:3.2.1, @react-stately/toggle@npm:^3.2.1":
+=======
 "@react-stately/toggle@npm:3.2.1":
+>>>>>>> master
   version: 3.2.1
   resolution: "@react-stately/toggle@npm:3.2.1"
   dependencies:
@@ -2957,7 +3001,11 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
+"@react-stately/toggle@npm:^3.2.3, @react-stately/toggle@npm:^3.4.0":
+=======
 "@react-stately/toggle@npm:^3.2.1, @react-stately/toggle@npm:^3.2.3, @react-stately/toggle@npm:^3.4.0":
+>>>>>>> master
   version: 3.4.0
   resolution: "@react-stately/toggle@npm:3.4.0"
   dependencies:
@@ -3198,6 +3246,8 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
+=======
 "@rollup/plugin-node-resolve@npm:^7.1.1":
   version: 7.1.3
   resolution: "@rollup/plugin-node-resolve@npm:7.1.3"
@@ -3562,6 +3612,7 @@ __metadata:
   languageName: node
   linkType: hard
 
+>>>>>>> master
 "@types/lodash.has@npm:^4.5.6":
   version: 4.5.7
   resolution: "@types/lodash.has@npm:4.5.7"
@@ -3572,6 +3623,11 @@ __metadata:
   linkType: hard
 
 "@types/lodash@npm:*":
+<<<<<<< HEAD
+  version: 4.14.182
+  resolution: "@types/lodash@npm:4.14.182"
+  checksum: 7dd137aa9dbabd632408bd37009d984655164fa1ecc3f2b6eb94afe35bf0a5852cbab6183148d883e9c73a958b7fec9a9bcf7c8e45d41195add6a18c34958209
+=======
   version: 4.14.184
   resolution: "@types/lodash@npm:4.14.184"
   checksum: 6d9a4d67f7f9d0ec3fd21174f3dd3d00629dc1227eb469450eace53adbc1f7e2330699c28d0fe093e5f0fef0f0e763098be1f779268857213224af082b62be21
@@ -3610,6 +3666,7 @@ __metadata:
   version: 2.7.0
   resolution: "@types/prettier@npm:2.7.0"
   checksum: bf5d0c7c1270909b39399539ac106d20ddaa85fe92eb1d59922dc99159604b4f8d5e41b0045fb29c8011585cf5bca2350b7441ef3d9816c08bd0e10ebd4b31d4
+>>>>>>> master
   languageName: node
   linkType: hard
 
@@ -3620,6 +3677,8 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
+=======
 "@types/q@npm:^1.5.1":
   version: 1.5.5
   resolution: "@types/q@npm:1.5.5"
@@ -3627,6 +3686,7 @@ __metadata:
   languageName: node
   linkType: hard
 
+>>>>>>> master
 "@types/react-native-vector-icons@npm:^6.4.6":
   version: 6.4.11
   resolution: "@types/react-native-vector-icons@npm:6.4.11"
@@ -3647,12 +3707,20 @@ __metadata:
   linkType: hard
 
 "@types/react@npm:*":
+<<<<<<< HEAD
+  version: 18.0.16
+  resolution: "@types/react@npm:18.0.16"
+=======
   version: 18.0.17
   resolution: "@types/react@npm:18.0.17"
+>>>>>>> master
   dependencies:
     "@types/prop-types": "*"
     "@types/scheduler": "*"
     csstype: ^3.0.2
+<<<<<<< HEAD
+  checksum: 47853419adbf7f35f302cd4ef804c5a50498a0917a34e696caa693fc60b9c52c644ca2ecf64cbba4a5efd963771167d241906f117d16d59e20e84b882215b6bd
+=======
   checksum: 18cae64f5bfd6bb58fbd8ee2ba52ec82de844f114254e26de7b513e4b86621f643f9b71d7066958cd571b0d78cb86cbceda449c5289f9349ca573df29ab69252
   languageName: node
   linkType: hard
@@ -3663,6 +3731,7 @@ __metadata:
   dependencies:
     "@types/node": "*"
   checksum: f241bb773ab14b14500623ac3b57c52006ce32b20426b6d8bf2fe5fdc0344f42c77ac0f94ff57b443ae1d320a1a86c62b4e47239f0321699404402fbeb24bad6
+>>>>>>> master
   languageName: node
   linkType: hard
 
@@ -3673,6 +3742,8 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
+=======
 "@types/source-list-map@npm:*":
   version: 0.1.2
   resolution: "@types/source-list-map@npm:0.1.2"
@@ -5644,6 +5715,7 @@ __metadata:
   languageName: node
   linkType: hard
 
+>>>>>>> master
 "clsx@npm:^1.1.1":
   version: 1.2.1
   resolution: "clsx@npm:1.2.1"
@@ -5651,6 +5723,9 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
+"color-convert@npm:^1.9.3":
+=======
 "co@npm:^4.6.0":
   version: 4.6.0
   resolution: "co@npm:4.6.0"
@@ -5687,6 +5762,7 @@ __metadata:
   linkType: hard
 
 "color-convert@npm:^1.9.0, color-convert@npm:^1.9.3":
+>>>>>>> master
   version: 1.9.3
   resolution: "color-convert@npm:1.9.3"
   dependencies:
@@ -5695,6 +5771,9 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
+"color-name@npm:1.1.3, color-name@npm:^1.0.0":
+=======
 "color-convert@npm:^2.0.1":
   version: 2.0.1
   resolution: "color-convert@npm:2.0.1"
@@ -5705,12 +5784,15 @@ __metadata:
   linkType: hard
 
 "color-name@npm:1.1.3":
+>>>>>>> master
   version: 1.1.3
   resolution: "color-name@npm:1.1.3"
   checksum: 09c5d3e33d2105850153b14466501f2bfb30324a2f76568a408763a3b7433b0e50e5b4ab1947868e65cb101bb7cb75029553f2c333b6d4b8138a73fcc133d69d
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
+=======
 "color-name@npm:^1.0.0, color-name@npm:~1.1.4":
   version: 1.1.4
   resolution: "color-name@npm:1.1.4"
@@ -5718,6 +5800,7 @@ __metadata:
   languageName: node
   linkType: hard
 
+>>>>>>> master
 "color-string@npm:^1.6.0":
   version: 1.9.1
   resolution: "color-string@npm:1.9.1"
@@ -5728,6 +5811,9 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
+"color@npm:^3.1.2":
+=======
 "color-support@npm:^1.1.3":
   version: 1.1.3
   resolution: "color-support@npm:1.1.3"
@@ -5738,6 +5824,7 @@ __metadata:
   linkType: hard
 
 "color@npm:^3.0.0, color@npm:^3.1.2, color@npm:^3.1.3":
+>>>>>>> master
   version: 3.2.1
   resolution: "color@npm:3.2.1"
   dependencies:
@@ -5747,6 +5834,8 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
+=======
 "combined-stream@npm:^1.0.8":
   version: 1.0.8
   resolution: "combined-stream@npm:1.0.8"
@@ -6392,6 +6481,7 @@ __metadata:
   languageName: node
   linkType: hard
 
+>>>>>>> master
 "csstype@npm:^3.0.2":
   version: 3.1.0
   resolution: "csstype@npm:3.1.0"
@@ -6399,6 +6489,8 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
+=======
 "cyclist@npm:^1.0.1":
   version: 1.0.1
   resolution: "cyclist@npm:1.0.1"
@@ -6513,6 +6605,7 @@ __metadata:
   languageName: node
   linkType: hard
 
+>>>>>>> master
 "deepmerge@npm:^4.2.2":
   version: 4.2.2
   resolution: "deepmerge@npm:4.2.2"
@@ -6520,6 +6613,8 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
+=======
 "default-gateway@npm:^4.2.0":
   version: 4.2.0
   resolution: "default-gateway@npm:4.2.0"
@@ -6735,6 +6830,7 @@ __metadata:
   languageName: node
   linkType: hard
 
+>>>>>>> master
 "dom-helpers@npm:^5.0.0":
   version: 5.2.1
   resolution: "dom-helpers@npm:5.2.1"
@@ -6745,6 +6841,16 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
+"dotenv@npm:^10.0.0":
+  version: 10.0.0
+  resolution: "dotenv@npm:10.0.0"
+  checksum: f412c5fe8c24fbe313d302d2500e247ba8a1946492db405a4de4d30dd0eb186a88a43f13c958c5a7de303938949c4231c56994f97d05c4bc1f22478d631b4005
+  languageName: node
+  linkType: hard
+
+"hoist-non-react-statics@npm:^3.3.2":
+=======
 "dom-serializer@npm:0":
   version: 0.2.2
   resolution: "dom-serializer@npm:0.2.2"
@@ -8599,6 +8705,7 @@ __metadata:
   linkType: hard
 
 "hoist-non-react-statics@npm:^3.3.0, hoist-non-react-statics@npm:^3.3.2":
+>>>>>>> master
   version: 3.3.2
   resolution: "hoist-non-react-statics@npm:3.3.2"
   dependencies:
@@ -8607,6 +8714,8 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
+=======
 "hoopy@npm:^0.1.4":
   version: 0.1.4
   resolution: "hoopy@npm:0.1.4"
@@ -9062,6 +9171,7 @@ __metadata:
   languageName: node
   linkType: hard
 
+>>>>>>> master
 "intl-messageformat@npm:^10.1.0":
   version: 10.1.1
   resolution: "intl-messageformat@npm:10.1.1"
@@ -9074,6 +9184,8 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
+=======
 "invariant@npm:^2.2.4":
   version: 2.2.4
   resolution: "invariant@npm:2.2.4"
@@ -9160,6 +9272,7 @@ __metadata:
   languageName: node
   linkType: hard
 
+>>>>>>> master
 "is-arrayish@npm:^0.3.1":
   version: 0.3.2
   resolution: "is-arrayish@npm:0.3.2"
@@ -9167,6 +9280,9 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
+"js-tokens@npm:^3.0.0 || ^4.0.0":
+=======
 "is-bigint@npm:^1.0.1":
   version: 1.0.4
   resolution: "is-bigint@npm:1.0.4"
@@ -10230,12 +10346,15 @@ __metadata:
   linkType: hard
 
 "js-tokens@npm:^3.0.0 || ^4.0.0, js-tokens@npm:^4.0.0":
+>>>>>>> master
   version: 4.0.0
   resolution: "js-tokens@npm:4.0.0"
   checksum: 8a95213a5a77deb6cbe94d86340e8d9ace2b93bc367790b260101d2f36a2eaf4e4e22d9fa9cf459b38af3a32fb4190e638024cf82ec95ef708680e405ea7cc78
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
+=======
 "js-yaml@npm:^3.13.1":
   version: 3.14.1
   resolution: "js-yaml@npm:3.14.1"
@@ -10586,6 +10705,7 @@ __metadata:
   languageName: node
   linkType: hard
 
+>>>>>>> master
 "lodash.clonedeep@npm:^4.5.0":
   version: 4.5.0
   resolution: "lodash.clonedeep@npm:4.5.0"
@@ -10593,6 +10713,8 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
+=======
 "lodash.debounce@npm:^4.0.8":
   version: 4.0.8
   resolution: "lodash.debounce@npm:4.0.8"
@@ -10600,6 +10722,7 @@ __metadata:
   languageName: node
   linkType: hard
 
+>>>>>>> master
 "lodash.get@npm:^4.4.2":
   version: 4.4.2
   resolution: "lodash.get@npm:4.4.2"
@@ -10635,6 +10758,8 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
+=======
 "lodash.memoize@npm:^4.1.2":
   version: 4.1.2
   resolution: "lodash.memoize@npm:4.1.2"
@@ -10642,6 +10767,7 @@ __metadata:
   languageName: node
   linkType: hard
 
+>>>>>>> master
 "lodash.merge@npm:^4.6.2":
   version: 4.6.2
   resolution: "lodash.merge@npm:4.6.2"
@@ -10677,6 +10803,9 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
+"lodash@npm:^4.17.15":
+=======
 "lodash.template@npm:^4.5.0":
   version: 4.5.0
   resolution: "lodash.template@npm:4.5.0"
@@ -10711,12 +10840,16 @@ __metadata:
   linkType: hard
 
 "lodash@npm:>=3.5 <5, lodash@npm:^4.17.11, lodash@npm:^4.17.14, lodash@npm:^4.17.15, lodash@npm:^4.17.19, lodash@npm:^4.17.20, lodash@npm:^4.17.21, lodash@npm:^4.17.5, lodash@npm:^4.7.0":
+>>>>>>> master
   version: 4.17.21
   resolution: "lodash@npm:4.17.21"
   checksum: eb835a2e51d381e561e508ce932ea50a8e5a68f4ebdd771ea240d3048244a8d13658acbd502cd4829768c56f2e16bdd4340b9ea141297d472517b83868e677f7
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
+"loose-envify@npm:^1.4.0":
+=======
 "loglevel@npm:^1.6.8":
   version: 1.8.0
   resolution: "loglevel@npm:1.8.0"
@@ -10725,6 +10858,7 @@ __metadata:
   linkType: hard
 
 "loose-envify@npm:^1.0.0, loose-envify@npm:^1.4.0":
+>>>>>>> master
   version: 1.4.0
   resolution: "loose-envify@npm:1.4.0"
   dependencies:
@@ -10735,6 +10869,11 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
+"native-base@npm:^3.4.11":
+  version: 3.4.11
+  resolution: "native-base@npm:3.4.11"
+=======
 "lower-case@npm:^2.0.2":
   version: 2.0.2
   resolution: "lower-case@npm:2.0.2"
@@ -11291,6 +11430,7 @@ __metadata:
 "native-base@npm:^3.4.13":
   version: 3.4.13
   resolution: "native-base@npm:3.4.13"
+>>>>>>> master
   dependencies:
     "@react-aria/focus": 3.2.3
     "@react-aria/utils": ^3.6.0
@@ -11336,6 +11476,13 @@ __metadata:
     react-native: "*"
     react-native-safe-area-context: "*"
     react-native-svg: "*"
+<<<<<<< HEAD
+  checksum: 8c4c0390919bee9d64ab5e1a7115966fa7751ce02a6886228c8956c036197c676b33685393c96cb60f171704751bf2d8e8a4fcbf0d664b75d57ee2381427b0ec
+  languageName: node
+  linkType: hard
+
+"object-assign@npm:^4.1.1":
+=======
   checksum: faab7b250fb1c3bf937dd4292f5c853dcdd59c4941e0fe998fdcdc0dd44e554a1a152ad9cf3d3257ec7b1071b1cc11157e3f0b1de5c599700ede7ce2076733e1
   languageName: node
   linkType: hard
@@ -11615,12 +11762,15 @@ __metadata:
   linkType: hard
 
 "object-assign@npm:^4.0.1, object-assign@npm:^4.1.0, object-assign@npm:^4.1.1":
+>>>>>>> master
   version: 4.1.1
   resolution: "object-assign@npm:4.1.1"
   checksum: fcc6e4ea8c7fe48abfbb552578b1c53e0d194086e2e6bbbf59e0a536381a292f39943c6e9628af05b5528aa5e3318bb30d6b2e53cadaf5b8fe9e12c4b69af23f
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
+=======
 "object-copy@npm:^0.1.0":
   version: 0.1.0
   resolution: "object-copy@npm:0.1.0"
@@ -11792,6 +11942,7 @@ __metadata:
   languageName: node
   linkType: hard
 
+>>>>>>> master
 "opencollective-postinstall@npm:^2.0.3":
   version: 2.0.3
   resolution: "opencollective-postinstall@npm:2.0.3"
@@ -11801,6 +11952,9 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
+"prop-types@npm:^15.6.2":
+=======
 "opn@npm:^5.5.0":
   version: 5.5.0
   resolution: "opn@npm:5.5.0"
@@ -13198,6 +13352,7 @@ __metadata:
   linkType: hard
 
 "prop-types@npm:^15.6.2, prop-types@npm:^15.7.2, prop-types@npm:^15.8.1":
+>>>>>>> master
   version: 15.8.1
   resolution: "prop-types@npm:15.8.1"
   dependencies:
@@ -13208,6 +13363,9 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
+"react-is@npm:^16.13.1, react-is@npm:^16.7.0":
+=======
 "proxy-addr@npm:~2.0.7":
   version: 2.0.7
   resolution: "proxy-addr@npm:2.0.7"
@@ -13481,12 +13639,21 @@ __metadata:
   linkType: hard
 
 "react-is@npm:^16.13.0, react-is@npm:^16.13.1, react-is@npm:^16.7.0":
+>>>>>>> master
   version: 16.13.1
   resolution: "react-is@npm:16.13.1"
   checksum: f7a19ac3496de32ca9ae12aa030f00f14a3d45374f1ceca0af707c831b2a6098ef0d6bdae51bd437b0a306d7f01d4677fcc8de7c0d331eb47ad0f46130e53c5f
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
+"react-native-dotenv@npm:^3.3.1":
+  version: 3.3.1
+  resolution: "react-native-dotenv@npm:3.3.1"
+  dependencies:
+    dotenv: ^10.0.0
+  checksum: 7e53bd7e3ab43479a1c304e7ff46b7ff24c9c743cc25cfae5bef0a7c7ee93a2748639e6edc337281576899216d8d9bdddfe563882fea6743d675444e8777514b
+=======
 "react-is@npm:^17.0.1":
   version: 17.0.2
   resolution: "react-is@npm:17.0.2"
@@ -13507,6 +13674,7 @@ __metadata:
   dependencies:
     dotenv: ^16.0.0
   checksum: 3bc8ef4fc2acc930b754ff6b7ae5f5abdf38864e717bced7459902c6b3f8262db234001530ee296f40112a5db467635ba249ae64b954ec29ab84dc80c2c47312
+>>>>>>> master
   languageName: node
   linkType: hard
 
@@ -13529,6 +13697,9 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
+"react-native-iphone-x-helper@npm:^1.0.3":
+=======
 "react-native-gesture-handler@npm:^2.5.0":
   version: 2.5.0
   resolution: "react-native-gesture-handler@npm:2.5.0"
@@ -13546,6 +13717,7 @@ __metadata:
   linkType: hard
 
 "react-native-iphone-x-helper@npm:^1.0.3, react-native-iphone-x-helper@npm:^1.3.0":
+>>>>>>> master
   version: 1.3.1
   resolution: "react-native-iphone-x-helper@npm:1.3.1"
   peerDependencies:
@@ -13566,6 +13738,8 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
+=======
 "react-native-maps@npm:^1.2.0":
   version: 1.2.0
   resolution: "react-native-maps@npm:1.2.0"
@@ -13582,6 +13756,7 @@ __metadata:
   languageName: node
   linkType: hard
 
+>>>>>>> master
 "react-native-ratings@npm:8.0.4":
   version: 8.0.4
   resolution: "react-native-ratings@npm:8.0.4"
@@ -13594,6 +13769,8 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
+=======
 "react-native-reanimated@npm:^2.9.1":
   version: 2.9.1
   resolution: "react-native-reanimated@npm:2.9.1"
@@ -13639,6 +13816,7 @@ __metadata:
   languageName: node
   linkType: hard
 
+>>>>>>> master
 "react-native-size-matters@npm:^0.3.1":
   version: 0.3.1
   resolution: "react-native-size-matters@npm:0.3.1"
@@ -13648,6 +13826,9 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
+"regenerator-runtime@npm:^0.13.4":
+=======
 "react-native-tab-view@npm:^2.15.2":
   version: 2.16.0
   resolution: "react-native-tab-view@npm:2.16.0"
@@ -13897,12 +14078,15 @@ __metadata:
   linkType: hard
 
 "regenerator-runtime@npm:^0.13.4, regenerator-runtime@npm:^0.13.7":
+>>>>>>> master
   version: 0.13.9
   resolution: "regenerator-runtime@npm:0.13.9"
   checksum: 65ed455fe5afd799e2897baf691ca21c2772e1a969d19bb0c4695757c2d96249eb74ee3553ea34a91062b2a676beedf630b4c1551cc6299afb937be1426ec55e
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
+=======
 "regenerator-transform@npm:^0.15.0":
   version: 0.15.0
   resolution: "regenerator-transform@npm:0.15.0"
@@ -14268,10 +14452,19 @@ __metadata:
   languageName: node
   linkType: hard
 
+>>>>>>> master
 "rn-google-maps-places@workspace:.":
   version: 0.0.0-use.local
   resolution: "rn-google-maps-places@workspace:."
   dependencies:
+<<<<<<< HEAD
+    native-base: ^3.4.11
+    react-native-dotenv: ^3.3.1
+    react-native-elements: ^3.4.2
+  languageName: unknown
+  linkType: soft
+
+=======
     native-base: ^3.4.13
     react-native-dotenv: ^3.3.1
     react-native-elements: ^3.4.2
@@ -14736,6 +14929,7 @@ __metadata:
   languageName: node
   linkType: hard
 
+>>>>>>> master
 "simple-swizzle@npm:^0.2.2":
   version: 0.2.2
   resolution: "simple-swizzle@npm:0.2.2"
@@ -14745,6 +14939,8 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
+=======
 "sisteransi@npm:^1.0.5":
   version: 1.0.5
   resolution: "sisteransi@npm:1.0.5"
@@ -15050,6 +15246,7 @@ __metadata:
   languageName: node
   linkType: hard
 
+>>>>>>> master
 "stable-hash@npm:^0.0.2":
   version: 0.0.2
   resolution: "stable-hash@npm:0.0.2"
@@ -15057,6 +15254,8 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
+=======
 "stable@npm:^0.1.8":
   version: 0.1.8
   resolution: "stable@npm:0.1.8"
@@ -15650,6 +15849,7 @@ __metadata:
   languageName: node
   linkType: hard
 
+>>>>>>> master
 "tinycolor2@npm:^1.4.2":
   version: 1.4.2
   resolution: "tinycolor2@npm:1.4.2"
@@ -15657,6 +15857,9 @@ __metadata:
   languageName: node
   linkType: hard
 
+<<<<<<< HEAD
+"tslib@npm:2.4.0":
+=======
 "tmpl@npm:1.0.5":
   version: 1.0.5
   resolution: "tmpl@npm:1.0.5"
@@ -15775,11 +15978,14 @@ __metadata:
   linkType: hard
 
 "tslib@npm:2.4.0, tslib@npm:^2.0.3":
+>>>>>>> master
   version: 2.4.0
   resolution: "tslib@npm:2.4.0"
   checksum: 8c4aa6a3c5a754bf76aefc38026134180c053b7bd2f81338cb5e5ebf96fefa0f417bff221592bf801077f5bf990562f6264fecbc42cd3309b33872cb6fc3b113
   languageName: node
   linkType: hard
+<<<<<<< HEAD
+=======
 
 "tslib@npm:^1.8.1":
   version: 1.14.1
@@ -16959,3 +17165,4 @@ __metadata:
   checksum: f77b3d8d00310def622123df93d4ee654fc6a0096182af8bd60679ddcdfb3474c56c6c7190817c84a2785648cdee9d721c0154eb45698c62176c322fb46fc700
   languageName: node
   linkType: hard
+>>>>>>> master
