@@ -8,5 +8,7 @@ export default StyleSheet.create({
     flexWrap: "wrap",
     marginTop: 0,
     paddingHorizontal: 20
+    
   }
+
 });
