@@ -6,15 +6,20 @@ import styles from "./styles";
 
 class ProfileScreen extends Component {
   static navigationOptions = {
+
     headerTitle: "Profile"
+
   };
 
   render() {
     const imagePlaceholder = "https://via.placeholder.com/150";
 
     return (
+
       <Container style={styles.container}>
+
         <Image
+        
           source={{ uri: imagePlaceholder }}
           style={{
             alignSelf: "center",
