@@ -19,7 +19,7 @@ class ProfileScreen extends Component {
       <Container style={styles.container}>
 
         <Image
-        
+
           source={{ uri: imagePlaceholder }}
           style={{
             alignSelf: "center",
@@ -32,7 +32,9 @@ class ProfileScreen extends Component {
         />
 
         <View
+
           style={{
+            
             flex: 1,
             marginHorizontal: 30,
             width: "80%",
